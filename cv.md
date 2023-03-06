@@ -28,8 +28,11 @@ function maskify(cc) {
 ``` 
 ## Experience
 * Software engineer Intern at Monster Technologies (2019)
+  + Worked in a team of 5 using Agile-scrum practices. Acquired programming languages: C#, Typescript, JavaScript, HTML5 and CSS; web frameworks: Angular, ASP.NET and Entity Framework
 * Full-stack developer at SecureTech (2020-2021)
+  + Developing and maintaining web application for E-freight system. Back-end implemented using Java Spring, PostgreSql, REST. Front-end was developed using AngularJS.
 * IT Manager at Vada-Perspektiva (2021-2023)
+  + Designed a website progroupcompany.kz. Provided IT support. Participation in tender. Procurement of goods and managing related processes.
 ## Education
 * Foundation Sunway College (2015)
 * Bachelor of Computer Science, Monash University (2016-2020)
